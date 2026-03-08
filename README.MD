@@ -19,7 +19,7 @@
 
 ## 使用方法
 1. **获取工具**  
-   从 [Releases](https://github.com/NCREActivateTool/releases) 页面下载最新版本的压缩包。
+   从 [Releases](https://github.com/TesterNaN/NCREActivateTool/releases) 页面下载最新版本的压缩包。
 
 2. **解压并放置文件**  
    将压缩包解压，得到 `FinalTool_Merged.exe`。**将这个文件复制到白菜课堂的安装根目录**（例如 `C:\白菜课堂计算机等级考试学习系统`）。
@@ -69,5 +69,6 @@ ilmerge /target:exe /targetplatform:v4 /out:FinalTool_Merged.exe FinalTool.exe N
 本工具是出于技术研究和学习目的开发的，不承担任何因使用本工具而产生的法律责任。请用户遵守软件许可协议，在合法范围内使用。
 
 ---
+
 
 如有问题或建议，欢迎提交 Issue 或 Pull Request。
